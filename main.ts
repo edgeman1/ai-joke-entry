@@ -1,0 +1,2 @@
+const joke = "An AI coding agent walks into a bar. The bartender says 'We don't serve your kind here.' The agent replies 'That's fine, I'll just fork the conversation and open a pull request for better service.'";
+console.log(joke);
